@@ -2,13 +2,13 @@ body {
   color: rgba(0, 0, 0, .5);
   text-align: center;
   text-transform: uppercase;
-letter-spacing: .3em;
-font-size: 1.5em;
+  letter-spacing: .3em;
+  font-size: 1.5em;
   background: linear-gradient(to left,rgb(99, 85, 223),rgb(38, 255, 0));
 }
 h1, h2{
   color: rgba(0, 0, 0, .5);
   text-align: center;
   text-transform: uppercase;
-width: 100%;
+  width: 100%;
 }
